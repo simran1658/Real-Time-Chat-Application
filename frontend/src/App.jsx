@@ -1,4 +1,3 @@
-import Navbar from './components/navbar';
 import {Routes,Route} from 'react-router-dom';
 import HomePage from './Home/HomePage'
 import SignupPage from './pages/SignupPage'
