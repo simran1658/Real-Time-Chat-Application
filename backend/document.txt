@@ -1,0 +1,10 @@
+import the packages that are required 
+1. mongoose
+2. nodemon- It automatically restarts the server whenever it detects changes in your source files.
+3. dotenv- dotenv is a Node.js package that loads environment variables from a .env file into process.env. It helps keep 
+           sensitive information like API keys, database credentials, and other configuration details out of your source code, 
+           making your application more secure. (Basically for security purpose to hide the important credentials like port no.)
+4. express
+5. bcryptjs
+6. jsonwebtoken
+7. socket.io
